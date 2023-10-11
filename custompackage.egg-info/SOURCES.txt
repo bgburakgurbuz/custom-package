@@ -1,0 +1,7 @@
+setup.py
+custompackage/__init__.py
+custompackage/custommodule.py
+custompackage.egg-info/PKG-INFO
+custompackage.egg-info/SOURCES.txt
+custompackage.egg-info/dependency_links.txt
+custompackage.egg-info/top_level.txt
